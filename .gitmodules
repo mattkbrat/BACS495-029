@@ -7,3 +7,6 @@
 [submodule "todo-react"]
 	path = todo-react
 	url = https://github.com/mattkbrat/todo-react
+[submodule "RestAPI"]
+	path = RestAPI
+	url = https://github.com/mattkbrat/RestAPI.git
